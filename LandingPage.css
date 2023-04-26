@@ -1,0 +1,7 @@
+/* LandingPage.css */
+/* LandingPage.css */
+.landing-page-container {
+    background-image: url("../content/Login.jpg");
+    background-size: cover;
+    background-position: center center;
+  }
